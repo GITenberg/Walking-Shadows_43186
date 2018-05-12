@@ -1,0 +1,33 @@
+_repo: Walking-Shadows_43186
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43186-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Noyes, Alfred
+    birthdate: 1880
+    deathdate: 1958
+    gutenberg_agent_id: '2093'
+    url: http://www.gutenberg.org/2009/agents/2093
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Noyes
+description: ''
+gutenberg_issued: '2013-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43186'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Short stories, English'
+- !lcsh 'Sea stories, English'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+tableOfContents: Prelude -- The light-house -- Uncle Hyacinth -- The creative impulse
+  -- The man from Buffalo -- The Lusitania waits -- The log of the Evening Star --
+  Goblin peaches -- May Margaret -- Marooned -- The garden on the cliff -- The hand
+  of the master.
+title: 'Walking Shadows: Sea Tales and Others'
+url: http://www.gutenberg.org/ebooks/43186
